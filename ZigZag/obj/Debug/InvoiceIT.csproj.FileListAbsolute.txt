@@ -1,0 +1,293 @@
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\InvoiceIT.dll.config
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\InvoiceIT.dll
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\InvoiceIT.pdb
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\csc.exe
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\csc.exe.config
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\csc.rsp
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\csi.exe
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\csi.exe.config
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\csi.rsp
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\System.AppContext.dll
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\System.Console.dll
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\System.IO.Compression.dll
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\System.Net.Http.dll
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\System.ValueTuple.dll
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\vbc.exe
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\vbc.exe.config
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\vbc.rsp
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\obj\Debug\InvoiceIT.csproj.CoreCompileInputs.cache
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\obj\Debug\InvoiceIT.csproj.CopyComplete
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\obj\Debug\InvoiceIT.dll
+C:\Users\Gayan Muthukumara\source\repos\InvoiceIT\InvoiceIT\obj\Debug\InvoiceIT.pdb
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\InvoiceIT.dll.config
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\InvoiceIT.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\InvoiceIT.pdb
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\csc.exe
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\csc.exe.config
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\csc.rsp
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\csi.exe
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\csi.exe.config
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\csi.rsp
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\System.AppContext.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\System.Console.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\System.IO.Compression.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\System.Net.Http.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\System.ValueTuple.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\vbc.exe
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\vbc.exe.config
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\vbc.rsp
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\obj\Debug\InvoiceIT.csproj.CoreCompileInputs.cache
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\obj\Debug\InvoiceIT.csproj.CopyComplete
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\obj\Debug\InvoiceIT.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\obj\Debug\InvoiceIT.pdb
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT\InvoiceIT\obj\Debug\InvoiceIT.csproj.AssemblyReference.cache
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\InvoiceIT.dll.config
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\InvoiceIT.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\InvoiceIT.pdb
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\csc.exe
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\csc.exe.config
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\csc.rsp
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\csi.exe
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\csi.exe.config
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\csi.rsp
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\System.AppContext.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\System.Collections.Immutable.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\System.Console.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\System.Globalization.Calendars.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\System.IO.Compression.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\System.IO.FileSystem.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\System.Net.Http.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\System.Net.Sockets.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\System.Reflection.Metadata.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\System.ValueTuple.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\System.Xml.XPath.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\vbc.exe
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\vbc.exe.config
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\vbc.rsp
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\VBCSCompiler.exe
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\roslyn\VBCSCompiler.exe.config
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\obj\Debug\InvoiceIT.csproj.AssemblyReference.cache
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\obj\Debug\InvoiceIT.csproj.CoreCompileInputs.cache
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\obj\Debug\InvoiceIT.csproj.CopyComplete
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\obj\Debug\InvoiceIT.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT\InvoiceIT\obj\Debug\InvoiceIT.pdb
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\InvoiceIT.dll.config
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\InvoiceIT.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\InvoiceIT.pdb
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\csc.exe
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\csc.exe.config
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\csc.rsp
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\csi.exe
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\csi.exe.config
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\csi.rsp
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.AppContext.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.Collections.Immutable.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.Console.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.Globalization.Calendars.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.IO.Compression.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.IO.FileSystem.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.Net.Http.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.Net.Sockets.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.Reflection.Metadata.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.ValueTuple.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.Xml.XPath.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\vbc.exe
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\vbc.exe.config
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\vbc.rsp
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\VBCSCompiler.exe
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\VBCSCompiler.exe.config
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\obj\Debug\InvoiceIT.csproj.AssemblyReference.cache
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\obj\Debug\InvoiceIT.csproj.CoreCompileInputs.cache
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\obj\Debug\InvoiceIT.csproj.CopyComplete
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\obj\Debug\InvoiceIT.dll
+E:\Other acedemic\Money Projects\Asp.net Assignment\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\obj\Debug\InvoiceIT.pdb
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\obj\Debug\InvoiceIT.csproj.CoreCompileInputs.cache
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\InvoiceIT.dll.config
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\InvoiceIT.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\InvoiceIT.pdb
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\csc.exe
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\csc.exe.config
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\csc.rsp
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\csi.exe
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\csi.exe.config
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\csi.rsp
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.AppContext.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.Console.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.IO.Compression.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.Net.Http.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.ValueTuple.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\vbc.exe
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\vbc.exe.config
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\vbc.rsp
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\obj\Debug\InvoiceIT.csproj.CopyComplete
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\obj\Debug\InvoiceIT.dll
+C:\Users\Gayan Muthukumara\OneDrive\Desktop\InvoiceIT-ASP.NET\InvoiceIT\InvoiceIT\obj\Debug\InvoiceIT.pdb
